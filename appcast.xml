@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Jerry</title>
+    <!-- Généré par release.sh — ne pas éditer à la main. -->
+    <item>
+      <title>Version 1.1</title>
+      <pubDate>Fri, 23 Oct 2026 16:32:09 +0200</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<style>:root{color-scheme:light dark}body{font:-apple-system-body,system-ui;margin:0}</style>
+<h2>Jerry 1.1</h2><p>Mises à jour automatiques</p>
+<ul>
+<li>Jerry se met désormais à jour toute seule</li>
+<li>Couleurs du logo et mode sombre</li>
+<li>Bouton Télécharger à droite de la ligne</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/rimodev74/jerry-dist/releases/download/v1.1/Jerry.dmg"
+        length="2737766" type="application/octet-stream" sparkle:edSignature="icDa3BOmf/BRp6BsYtjdif9OtAgDAt5+zbSLJgN8/26v6S+x6I3Pi/a/lg5rt9RAklpiIF8JFecH1Lfjs+RAAQ==" />
+    </item>
+  </channel>
+</rss>
