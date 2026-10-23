@@ -4,22 +4,22 @@
     <title>Jerry</title>
     <!-- Généré par release.sh — ne pas éditer à la main. -->
     <item>
-      <title>Version 1.1</title>
-      <pubDate>Fri, 23 Oct 2026 16:32:09 +0200</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <title>Version 1.2</title>
+      <pubDate>Fri, 23 Oct 2026 18:06:37 +0200</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <style>:root{color-scheme:light dark}body{font:-apple-system-body,system-ui;margin:0}</style>
-<h2>Jerry 1.1</h2><p>Mises à jour automatiques</p>
+<h2>Jerry 1.2</h2><p>Petites finitions</p>
 <ul>
-<li>Jerry se met désormais à jour toute seule</li>
-<li>Couleurs du logo et mode sombre</li>
-<li>Bouton Télécharger à droite de la ligne</li>
+<li>Icône ⓘ en bas à gauche : la version installée s'affiche au survol</li>
+<li>Marges de la barre du bas harmonisées</li>
+<li>La fenêtre s'ouvre en 900 × 650</li>
 </ul>
       ]]></description>
-      <enclosure url="https://github.com/rimodev74/jerry-dist/releases/download/v1.1/Jerry.dmg"
-        length="2737766" type="application/octet-stream" sparkle:edSignature="icDa3BOmf/BRp6BsYtjdif9OtAgDAt5+zbSLJgN8/26v6S+x6I3Pi/a/lg5rt9RAklpiIF8JFecH1Lfjs+RAAQ==" />
+      <enclosure url="https://github.com/rimodev74/jerry-dist/releases/download/v1.2/Jerry.dmg"
+        length="2488813" type="application/octet-stream" sparkle:edSignature="2AUk7Ilvc8GJG6wRbJSNsrkUxZwdmp4NSAmoN67xw/lXFaIU2djAjdWYCcYc7bnwFIpaI9s/hc3C6qPWHCjiCg==" />
     </item>
   </channel>
 </rss>
